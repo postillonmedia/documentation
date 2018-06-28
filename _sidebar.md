@@ -1,5 +1,6 @@
 * [Home](/)
 - **App**
+* [Getting started](app/readme)
 * [Changelog](changelog.md)
 - **Packages**
 - [react-native-i18n](packages/i18n)
