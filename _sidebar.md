@@ -1,4 +1,4 @@
-* [Home](/)
+* [Welcome](/)
 - **App**
 * [Getting started](app/readme)
 * [Changelog](changelog.md)

@@ -4,10 +4,6 @@
 
 > Development
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
-
 [GitHub](https://github.com/postillonmedia/)
 [Get Started](#Welcome)
 
