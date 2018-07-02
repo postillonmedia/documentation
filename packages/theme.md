@@ -45,12 +45,20 @@ Test
 
 **Props**
 
-`theme` -> string
+`theme: string` -> Name of the theme, which is registered in the ThemeManager.
 
 
 ### connectStyle
 
-**Props**
+```javascript
+connectStyle('style', {
+    // options
+    themePropsName: 'theme',
+    stylesPropsName: 'styles',
+    constantsPropsName: 'constants',
+    callback: (nextTheme, ownProps) => {},
+})(ScreenComponent)
+```
 
 
 
