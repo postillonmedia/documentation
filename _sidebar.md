@@ -4,7 +4,7 @@
 * [Changelog](changelog.md)
 - **Packages**
 - [react-native-i18n](packages/i18n)
-- [react-native-theming](packages/theming)
+- [react-native-theme](packages/theming)
 - [react-native-timeago](packages/timeago)
 - [react-native-webview](packages/webview)
 - [react-native-instagram-zoomable](packages/instagram-zoomable)
