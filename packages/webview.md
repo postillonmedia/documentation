@@ -14,6 +14,6 @@ Custom WebView with autoHeight feature.
 
 
 
-## Example
+## Sorry
 
-Try it on [Expo]().
+This part of the documentation is missing. If you need it please create an issue or if you want to contribute create a pull request.
