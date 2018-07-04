@@ -63,3 +63,7 @@ figure.thumbnails img {
         }
     }
 }
+
+:root {
+  --sidebar-nav-link-before-content-l3: '';
+}

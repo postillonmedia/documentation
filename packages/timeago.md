@@ -6,16 +6,15 @@ A redux compatible i18n module.
 
 ## Installation
 
-**Using yarn**
-
+**Using yarn**  
 `$ yarn add @postillon/react-native-timeago`
 
-**Using npm**
 
+**Using npm**  
 `$ npm install @postillon/react-native-timeago --save`
 
 
 
-## Example
+## Sorry
 
-Try it on [Expo]().
+This part of the documentation is missing. If you need it please create an issue or if you want to contribute create a pull request.

@@ -6,12 +6,10 @@ A component to implement the Instagram Zoom-Draggable-Effect for any component i
 
 ## Installation
 
-**Using yarn**
-
+**Using yarn**  
 `$ yarn add @postillon/react-native-instagram-zoomable`
 
-**Using npm**
-
+**Using npm**  
 `$ npm install @postillon/react-native-instagram-zoomable --save`
 
 

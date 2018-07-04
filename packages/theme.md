@@ -6,12 +6,10 @@ A HOC for theming your react-native app
 
 ## Installation
 
-**Using yarn**
-
+**Using yarn**  
 `$ yarn add @postillon/react-native-theme`
 
-**Using npm**
-
+**Using npm**  
 `$ npm install @postillon/react-native-theme --save`
 
 
@@ -59,6 +57,3 @@ connectStyle('style', {
     callback: (nextTheme, ownProps) => {},
 })(ScreenComponent)
 ```
-
-
-

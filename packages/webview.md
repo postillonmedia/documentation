@@ -6,12 +6,10 @@ Custom WebView with autoHeight feature.
 
 ## Installation
 
-**Using yarn**
-
+**Using yarn**  
 `$ yarn add @postillon/react-native-webview`
 
-**Using npm**
-
+**Using npm**  
 `$ npm install @postillon/react-native-webview --save`
 
 
