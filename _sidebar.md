@@ -1,6 +1,6 @@
 * [Welcome](/)
 - **App**
-* [Getting started](app/readme.md)
+* [Getting started](app/start.md)
 * [Development](app/development.md)
     * [Android](app/android.md)
     * [iOS](app/ios.md)

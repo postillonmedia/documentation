@@ -1,5 +1,5 @@
 # Welcome
 
-> Der Postillon ❤ Open Source
+This is the repository for the documentation of The Postillon. You can find the documentation here:  
 
-Welcome on our development page. Here you can find the documentation of our app and developed packages.
+> [development.the-postillon.com](https://development.the-postillon.com)

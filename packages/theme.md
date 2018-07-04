@@ -21,7 +21,7 @@ Try it on [Expo](https://snack.expo.io/@danielang/react-native-theme).
 
 ## Usage
 
-Test
+This part of the documentation is missing. If you need it please create an issue or if you want to contribute create a pull request.
 
 
 ## API
