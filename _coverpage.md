@@ -5,7 +5,6 @@
 > Development
 
 [GitHub](https://github.com/postillonmedia/)
-[Get Started](#Welcome)
+[Get Started](#der-postillon-❤-open-source)
 
 <!-- background color -->
-
