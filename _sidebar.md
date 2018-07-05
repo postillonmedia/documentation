@@ -1,4 +1,3 @@
-* [Welcome](/)
 - **App**
 * [Getting started](app/start.md)
 * [Development](app/development.md)
